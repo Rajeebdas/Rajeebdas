@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rajeeb Das</h1>
-<h3 align="center">Aspiring Software Engineer | Full Stack Developer | Computer Science Student </h3>
+<h3 align="center">Aspiring Software Engineer | Full Stack Developer | Computer Science Engineering Student</h3>
 
 <p align="center">
-  <a href="https://rajeebdas.onrender.com" target="_blank"><strong>🌐 Portfolio Website</strong></a> |
+  <a href="https://rajeebdas.onrender.com" target="_blank"><strong>🌐 Portfolio Website</strong></a> 
 <!--   <a href="https://github.com/rajeebdas"><strong>GitHub</strong></a> | -->
 <!--   <a href="https://www.linkedin.com/in/rajeeb-das-cse/"><strong>LinkedIn</strong></a> -->
 </p>
