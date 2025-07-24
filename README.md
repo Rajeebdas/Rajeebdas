@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajeeb Das</h1>
-<h3 align="center">Aspiring Software Engineer | Full Stack Developer | Computer Science Student from Kolkata, India</h3>
+<h3 align="center">Aspiring Software Engineer | Full Stack Developer | Computer Science Student </h3>
 
 <p align="center">
   <a href="https://your-portfolio-link.com" target="_blank"><strong>🌐 Portfolio Website</strong></a> |
