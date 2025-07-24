@@ -2,8 +2,8 @@
 <h3 align="center">Aspiring Software Engineer | Full Stack Developer | Computer Science Student </h3>
 
 <p align="center">
-  <a href="https://your-portfolio-link.com" target="_blank"><strong>🌐 Portfolio Website</strong></a> |
-  <a href="https://github.com/rajeebdas"><strong>GitHub</strong></a> |
+  <a href="https://rajeebdas.onrender.com" target="_blank"><strong>🌐 Portfolio Website</strong></a> |
+<!--   <a href="https://github.com/rajeebdas"><strong>GitHub</strong></a> | -->
   <a href="https://www.linkedin.com/in/rajeeb-das-cse/"><strong>LinkedIn</strong></a>
 </p>
 
@@ -13,10 +13,10 @@
   <img src="https://komarev.com/ghpvc/?username=rajeebdas&label=Profile%20views&color=0e75b6&style=flat" alt="rajeebdas profile views counter" />
 </p>
 
-- 📍 **Location**: Kolkata, India  
+- 📍 **Location**: Jamshedpur, India  
 - 📫 **Email**: rdas22311@gmail.com  
-- 🌱 **Interests**: Software Development, Web Applications, Java, AI, and Open Source Projects  
-- 💻 **Tech Stack**: Java, C++, HTML, CSS, JavaScript, Node.js, MySQL, Oracle, Bootstrap  
+- 🌱 **Interests**: Software Development, Web Applications and Data Science
+- 💻 **Tech Stack**: Java, C++, HTML, CSS, JavaScript, Node.js, MySQL, Bootstrap  
 - 🧠 Currently learning: Full Stack Web Development and Machine Learning
 
 ---
