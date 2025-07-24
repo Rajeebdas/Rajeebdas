@@ -1,15 +1,19 @@
-<h1 align="center">Hi 👋, I'm Rajeeb Das</h1>
-<h3 align="center">Aspiring Software Engineer | Computer Science Student | Kolkata, India 🇮🇳</h3>
+<!-- GitHub Profile README -->
 
-<p align="center">
-  <a href="https://rajeebdas.github.io" target="_blank"><strong>🌐 Portfolio: rajeeebdas.github.io</strong></a>
-</p>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
+    <h1>Hi 👋, I'm Rajeeb Das</h1>
+    <h3>Aspiring Software Engineer | Computer Science Student | Kolkata, India 🇮🇳</h3>
+    <p>
+      <a href="https://rajeebdas.github.io" target="_blank"><strong>🌐 Portfolio: rajeeebdas.github.io</strong></a>
+    </p>
+    <p>
+      <img src="https://komarev.com/ghpvc/?username=rajeebdas&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+    </p>
+  </div>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=rajeebdas&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding" width="350" style="margin-left: 20px; border-radius: 10px;" />
+</div>
 
 ---
 
@@ -70,5 +74,3 @@
 - Use your portfolio to link back to your **GitHub repos**
 
 ---
-
-Let me know if you'd like this as a downloadable `README.md` file or hosted directly in your GitHub profile repo!
