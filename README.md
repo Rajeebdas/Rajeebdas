@@ -1,20 +1,24 @@
-<h1 align="center">Hi 👋, I'm Rajeeb Das</h1>
-<h3 align="center">Aspiring Software Engineer | Full Stack Developer | Computer Science Engineering Student from Jamshedpur, India</h3>
+<!-- GitHub Profile README -->
 
-<!-- SEO-friendly introduction -->
-<p align="center">
-  Passionate Full Stack Developer with experience in Java, C++, HTML, CSS, JavaScript, Node.js, and MySQL. Currently exploring Machine Learning and building dynamic web applications. Explore my projects and skills below.
-</p>
+<div align="center" style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 280px;">
+    <h1>Hi 👋, I'm Rajeeb Das</h1>
+    <h3>Aspiring Software Engineer | Full Stack Developer | Computer Science Engineering Student from Jamshedpur, India</h3>
+    <p>
+      Passionate Full Stack Developer with experience in Java, C++, HTML, CSS, JavaScript, Node.js, and MySQL. Currently exploring Machine Learning and building dynamic web applications. Explore my projects and skills below.
+    </p>
+    <p>
+      <a href="https://rajeebdas.onrender.com" target="_blank"><strong>🌐 Visit My Developer Portfolio</strong></a>
+    </p>
+    <p>
+      <img src="https://komarev.com/ghpvc/?username=rajeebdas&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views counter for Rajeeb Das GitHub" />
+    </p>
+  </div>
 
-<p align="center">
-  <a href="https://rajeebdas.onrender.com" target="_blank"><strong>🌐 Visit My Developer Portfolio</strong></a>
-</p>
+  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Rajeeb Das coding animation" width="350" style="border-radius: 10px; margin-top: 20px;" />
+</div>
 
-<img align="right" alt="Rajeeb Das coding animation" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=rajeebdas&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views counter for Rajeeb Das GitHub" />
-</p>
+---
 
 - 📍 **Location**: Jamshedpur, India  
 - 📫 **Email**: rdas22311@gmail.com  
@@ -25,6 +29,7 @@
 ---
 
 <h3>🌐 Connect with Me:</h3>
+
 <p align="left">
   <a href="https://www.linkedin.com/in/rajeeb-das-cse/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rajeeb Das LinkedIn" height="30" width="40" />
@@ -37,6 +42,7 @@
 ---
 
 <h3>🛠️ Languages and Tools:</h3>
+
 <p>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap icon" width="40" height="40"/>
